@@ -98,8 +98,8 @@ More local shops and companies providing goods and services will start to accept
 
 Citizens may now choose to be accountable for their own civic life. By “Opting in”, a citizen now has:
 
-Monthly Basic Income - In Citizen Coins.
-Control over their Tax money.
+* Monthly Basic Income - In Citizen Coins.
+* Control over their Tax money. 
 
 #### Monthly Basic Income
 In phases two and three we have an active community who are working with one another. A byproduct of this work is the generation of Citizen Coins. Citizen Coins that are created within a community are collected and distributed equally on a monthly basis amongst their members.
