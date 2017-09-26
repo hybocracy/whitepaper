@@ -18,7 +18,7 @@ Hybocracy came to be when a group of people got together to talk about building 
 
 One of the first things we realised was that where historically as we grew from small hunter gatherer units, it was not possible to make decisions together mainly due to communication constraints. This is the major argument for representative democracy, where you choose someone from your community to represent you. Today, this argument no longer holds true. Modern technology and protocols like distributed ledgers (Blockchain) allow us to openly communicate and make decisions together.
 
-After ten months of research and debate we finally realised that you can't build everything all at once, you need to break it up into phases, here are the five phases of Hybocracy:
+After ten months of research and debate we finally realised that you can't build everything all at once, you need to break it up into phases, here are the five phases of Hybocracy: 
 
 ### Phase One: Engagement
 **Goal:** Community activism
